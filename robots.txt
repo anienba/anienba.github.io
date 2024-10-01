@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://anienba.github.io/sitemap.html.gz
+Sitemap: https://anienba.github.io/app/sitemap.html.gz
+Sitemap: https://anienba.github.io/assets/sitemap.html.gz
+Sitemap: https://anienba.github.io/css/sitemap.html.gz
+Sitemap: https://anienba.github.io/data/sitemap.html.gz
+Sitemap: https://anienba.github.io/includes/sitemap.html.gz
+Sitemap: https://anienba.github.io/item/sitemap.html.gz
+Sitemap: https://anienba.github.io/src/sitemap.html.gz
